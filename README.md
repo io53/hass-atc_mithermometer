@@ -1,0 +1,1 @@
+Home Assistant integration for Xiaomi LYWSD03MMC sensors running ATC_MiThermometer firmware.
